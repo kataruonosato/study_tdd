@@ -1,0 +1,23 @@
+{
+  "name": "study_tdd",
+  "version": "1.0.0",
+  "description": "Software Design 2022/03の\"そろそろ始めるテスト駆動開発\"の内容を実践する",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kataruonosato/study_tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kataruonosato/study_tdd/issues"
+  },
+  "homepage": "https://github.com/kataruonosato/study_tdd#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
