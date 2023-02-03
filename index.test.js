@@ -1,9 +1,9 @@
 const add = require('./index')
 
-test('1と2を渡した時、3を返す', ()=> {
-    expect(add(1, 2)).toBe(3);
-});
 
-test('0と0を渡した時、0を返す', ()=> {
-    expect(add(0, 0)).toBe(0);
+test("1を渡すと文字列'1'を返す", ()=> {
+    // 準備(Arrange)
+    // 実行(Act)
+    // 検証(Assertion)
+    expect(actual).toBe('1');
 });
